@@ -2,6 +2,7 @@ class main
 {
     public static void main (String[] args)
     {
-        System.out.println("Hello World!")
+	// This program prints out Hello World!
+        System.out.println("Hello World!");
     }
 }

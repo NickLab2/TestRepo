@@ -4,5 +4,6 @@ class main
     {
 	// This program prints out Hello World!
         System.out.println("Hello World!");
+	System.out.println("How are you?");
     }
 }

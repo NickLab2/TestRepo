@@ -4,6 +4,6 @@ class main
     {
 	// This program prints out Hello World!
         System.out.println("Hello World!");
-	System.out.println("What colour is the sky?");
+	      System.out.println("What colour is the sky?");
     }
 }
